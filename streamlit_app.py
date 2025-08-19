@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Hlavný nadpis
-st.title('🚗 Sonkas ride')
+st.title('🚗 Sonkas bum bum ride')
 st.subheader('Kalkulačka ceny cesty')
 
 # Vytvorenie dvoch stĺpcov pre lepší layout
