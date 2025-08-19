@@ -2,7 +2,7 @@ import streamlit as st
 
 # Konfigurácia stránky
 st.set_page_config(
-    page_title='Sonkas ride',
+    page_title='Sonkas bum ride',
     page_icon='🚗',
     layout='centered'
 )
